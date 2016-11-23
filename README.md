@@ -8,7 +8,6 @@ Wraps the react-native navigator and provides an easy to use navigation interfac
 
 [![npm](https://img.shields.io/npm/dm/react-native-better-navigator.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-better-navigator)
 [![npm](https://img.shields.io/npm/v/react-native-better-navigator.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-better-navigator)
-[![Beerpay](https://beerpay.io/Devnetik/react-native-better-navigator/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-better-navigator)
 
 ## Getting started
 ```sh
