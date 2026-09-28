@@ -1,5 +1,11 @@
 # Better navigator
 
+<!-- links:start -->
+[![Support me on Ko-fi](https://malura.de/assets/badge/kofi.svg)](https://malura.de/go/kofi?ref=rn-better-navigator)
+[![Check out my page](https://malura.de/assets/badge/malura.svg)](https://malura.de/go/site?ref=rn-better-navigator)
+[![npm](https://malura.de/badge/npm/react-native-better-navigator.svg)](https://www.npmjs.com/package/react-native-better-navigator)
+<!-- links:end -->
+
 [![Join the chat at https://gitter.im/Devnetik/react-native-better-navigator](https://badges.gitter.im/Devnetik/react-native-better-navigator.svg)](https://gitter.im/Devnetik/react-native-better-navigator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Wraps the react-native navigator and provides an easy to use navigation interface
